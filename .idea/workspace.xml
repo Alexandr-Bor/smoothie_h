@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7f4e0a0-f301-4358-8bca-a57829f64277" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smoothie_h.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/smoothie_html.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Quicksand-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/WaitingfortheSunrise-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about/about_box_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about/about_box_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about/about_header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about/bottom.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/about/top.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/blog_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/contact/contact_heder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/01_tel.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/02_arr.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/03_map.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/footer_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/img3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/img4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/img5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/img6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/social_f.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/social_i.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/social_t.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/footer/social_y.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/Slide_rounds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/Slide_rounds2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/Slider_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/Slider_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/home_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/home_blog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/home_img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/home_subscribe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/home/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo/logo@4x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/1_apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/1_banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/1_cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/1_grape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/1_pear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/1_pineapple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/Group27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/Sty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/bg_green_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/img_our_menu1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/img_our_menu2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/img_our_menu3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/img_our_menu4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/img_our_menu5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/img_our_menu6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/img_our_menu7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/img_our_menu8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/menu_green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/menu_header_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/menu_list_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/menu_red.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/pricing_mask.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/img4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/img5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/img6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/img7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/img8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/shop/shop_header_bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stats/img1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stats/img2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stats/img3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/stats/img4.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/social_facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/social_instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/social_twiter.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/social_youtobe.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/team1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/team2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/team3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/team/team4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/jQuery_1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ge4NMgfcXRabLuhjkzeIJANC2l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7f4e0a0-f301-4358-8bca-a57829f64277" name="Default Changelist" comment="" />
+      <created>1598461682665</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598461682665</updated>
+      <workItem from="1598461683858" duration="301000" />
+    </task>
+    <task id="LOCAL-00001" summary="version 1.9">
+      <created>1598461817119</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598461817120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 1.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.9" />
+  </component>
+</project>
